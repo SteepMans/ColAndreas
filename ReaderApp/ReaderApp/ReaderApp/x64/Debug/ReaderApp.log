@@ -1,0 +1,12 @@
+﻿  BuildManager.cpp
+C:\Users\steep\Desktop\work\ColAndreas\ReaderApp\ReaderApp\ReaderApp\BuildManager.cpp(552,37): warning C4101: EntryFound: неиспользованная локальная переменная
+C:\Users\steep\Desktop\work\ColAndreas\ReaderApp\ReaderApp\ReaderApp\BuildManager.cpp(552,7): warning C4101: ModelidMatch: неиспользованная локальная переменная
+C:\Users\steep\Desktop\work\ColAndreas\ReaderApp\ReaderApp\ReaderApp\BuildManager.cpp(552,21): warning C4101: ModelnameMatch: неиспользованная локальная переменная
+C:\Users\steep\Desktop\work\ColAndreas\ReaderApp\ReaderApp\ReaderApp\BuildManager.cpp(610,38): warning C4267: инициализация: преобразование из "size_t" в "uint16_t"; возможна потеря данных
+C:\Users\steep\Desktop\work\ColAndreas\ReaderApp\ReaderApp\ReaderApp\BuildManager.cpp(615,38): warning C4267: инициализация: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+C:\Users\steep\Desktop\work\ColAndreas\ReaderApp\ReaderApp\ReaderApp\BuildManager.cpp(637,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\steep\Desktop\work\ColAndreas\ReaderApp\ReaderApp\ReaderApp\BuildManager.cpp(643,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\steep\Desktop\work\ColAndreas\ReaderApp\ReaderApp\ReaderApp\BuildManager.cpp(664,22): warning C4018: <: несоответствие типов со знаком и без знака
+  ReaderApp.cpp
+  Создание кода...
+  ReaderApp.vcxproj -> C:\Users\steep\Desktop\work\ColAndreas\ReaderApp\ReaderApp\x64\Debug\ReaderApp.exe
